@@ -1,0 +1,5 @@
+data/raw/.gitkeep
+data/processed/.gitkeep
+notebooks/.gitkeep
+src/.gitkeep
+reports/figures/.gitkeep
